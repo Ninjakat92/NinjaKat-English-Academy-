@@ -1,3 +1,5 @@
+[NinjaKat_Case_Study_ES.pdf](https://github.com/user-attachments/files/27124513/NinjaKat_Case_Study_ES.pdf)
+[NinjaKat_Case_Study_EN.pdf](https://github.com/user-attachments/files/27124508/NinjaKat_Case_Study_EN.pdf)
 Written by: Nicolas Guarnizo
 April 24, 2026 — 18:30 ECT, Madrid, Spain.
 All rights reserved. Unauthorized copying, reproduction, or distribution is prohibited without the author's
